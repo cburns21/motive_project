@@ -10,9 +10,9 @@ function App() {
         </h1>
       </div>
       <div className='button'>
-        <button  type='button' className="btn-lg" data-toggle="tooltip" data-placement="top" title="Tooltip on top">
+        <a  className= 'btn-lg'role='button' href='https://github.com/cburns21/motive_project'>
           Click Me!
-        </button>
+        </a>
       </div>
     </div>
   );
