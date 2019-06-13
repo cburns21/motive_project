@@ -14,28 +14,34 @@ function App() {
           Click Me to See the Code!
         </a>
       </div>
-      <div className="card">
-        <div className="card-body">
-          This is some text within a card body.
+      <div class="container">
+        <div class="row">
+          <div class="col-sm">
+            One of one columns
+          </div>
         </div>
       </div>
-      <div className="card2">
-        <div className="card-body">
-          This is some text within a card body.
-        </div>
-        <div className="card-body">
-          This is some text within a card body.
+      <div class="container">
+        <div class="row">
+          <div class="col-sm">
+            One of two columns
+          </div>
+          <div class="col-sm">
+            One of two columns
+          </div>
         </div>
       </div>
-      <div className="card3">
-        <div className="card-body">
-          This is some text within a card body.
-        </div>
-        <div className="card-body">
-          This is some text within a card body.
-        </div>
-        <div className="card-body">
-          This is some text within a card body.
+      <div class="container">
+        <div class="row">
+          <div class="col-sm">
+            One of three columns
+          </div>
+          <div class="col-sm">
+            One of three columns
+          </div>
+          <div class="col-sm">
+            One of three columns
+          </div>
         </div>
       </div>
     </div>

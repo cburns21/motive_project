@@ -40,30 +40,7 @@ a:hover {
 
 }
 
-.card {
-  margin: 5ch;
-  border-right-color: black;
+
+.container {
+  font-weight: bolder;
 }
-
-.card2 {
-  background-color: white;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  margin: 5ch;
-
-}
-
-.card3 {
-  background-color: white;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  margin: 5ch;
-  
-}
-
-.card-body {
-  border-color: black;
-}
-
